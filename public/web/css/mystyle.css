@@ -1,0 +1,44 @@
+h2 {
+    padding-top: 40px;
+}
+
+.vm-padding {
+    padding-top: 40px !important;
+}
+
+.vm-align {
+    text-align: center;
+}
+
+.ppadding {
+    padding-top: 0px !important;
+}
+
+.aboutpadding {
+    padding-top: 35px;
+}
+
+.footpadbot {
+    padding-bottom: 0px !important;
+    padding-top: 30px !important;
+}
+
+address {
+    color: #b0b0b0;
+}
+
+.txtleftpadding {
+    padding-left: 20px;
+}
+
+.txtltpad {
+    padding-left: 20%;
+}
+
+.txtmar {
+    margin-right: 50%;
+}
+
+.txtmarb {
+    margin-bottom: 10px;
+}
